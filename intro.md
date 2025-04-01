@@ -8,7 +8,9 @@ This is a collection of fun facts about things.
 
 .ve-media wc:Farnsworth House by Mies Van Der Rohe - exterior-6.jpg right
 
+The Edith Farnsworth House, formerly the Farnsworth House, is a historical house designed and constructed by Ludwig Mies van der Rohe between 1945 and 1951. The house was constructed as a one-room weekend retreat in a rural setting in Plano, Illinois, about 60 miles (96 km) southwest of Chicago's downtown. The steel and glass house was commissioned by Edith Farnsworth [^1]
 
+[^1]: Source: [Wikipedia Article] (https://commons.wikimedia.org/wiki/File:Farnsworth_House_by_Mies_Van_Der_Rohe_-_exterior-6.jpg)
 
 This image is hosted on [Wikimedia Commons](Farnsworth House by Mies Van Der Rohe - exterior-6.jpg) and .
 
