@@ -13,11 +13,12 @@ The Edith Farnsworth House, formerly the Farnsworth House, is a historical house
 [^1]: Source: [Wikipedia Article](https://en.wikipedia.org/wiki/Farnsworth_House)
 
 
-## Hohenlimburg
+## Schloss Hohenlimburg
 
-.ve-map Q1556734 right
+.ve-map Q1556734 right 8 marker
+.ve-map 27.5,84.333 left
 
-The map is centered on the Chitwan National Park in Nepal, which is the location associated with the image above.  The Wikidata identifier for Chitwan National Park is `Q1075023`.  When a map location is specified using a Wikidata ID (or QID) Juncture can automatically retrieve the geographic coordinates for map centering.
+The map is centered on Schloss Hohenlimburg, a castle in Germany that I used to visit often with my grandpa when I was young.
 
-An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
+Source: [wikidata entry](https://www.wikidata.org/wiki/Q1556734)
 
